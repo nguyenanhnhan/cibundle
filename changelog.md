@@ -1,0 +1,8 @@
+# Change log and New features
+Để xem chi tiết các sự thay đổi, vui lòng tham khảo [github commit log](https://github.com/nguyenanhnhan/cibundle/commits/master)
+
+v0.1.0
+- (done, tested) Thêm CodeIgniter Matches 
+- (done, tested) Thêm Modular Extensions - HMVC
+- (done, tested) Thêm CodeIgniter3 Filename Checker
+- (done, tested) Chuyển Welcome to CodeIgniter về HMVC dạng Separation
