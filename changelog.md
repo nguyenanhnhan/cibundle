@@ -1,7 +1,7 @@
 # Change log and New features
 Để xem chi tiết các sự thay đổi, vui lòng tham khảo [github commit log](https://github.com/nguyenanhnhan/cibundle/commits/master)
 
-v.0.1.2
+v0.1.2
 - (done, tested) UI Login
 - (done, tested) UI List User
 - (done, tested) UI Create User
