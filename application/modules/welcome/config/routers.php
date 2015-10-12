@@ -1,0 +1,1 @@
+$route['welcome/(:any)'] = "welcome/$1";
